@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DataInit.java&apos; to &apos;Chapter06-Thymeleaf/src/main/java/edu.pnu&apos;&#x0D;&#x0A;- Original project: &apos;Chapter05-Rel&apos;&#x0D;&#x0A;- Destination element: &apos;Chapter06-Thymeleaf/src/main/java/edu.pnu&apos;&#x0D;&#x0A;- Original element: &apos;edu.pnu.DataInit.java&apos;" description="Copy compilation unit" destination="=Chapter06-Thymeleaf/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;edu.pnu" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;edu.pnu{DataInit.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1716361203332" units="1" version="1.0"/>
+</session>

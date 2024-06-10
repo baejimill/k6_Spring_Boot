@@ -1,0 +1,6 @@
+spring.application.name=Chapter055
+
+spring.datasource.dbcp2.driver-class-name=org.h2.Driver
+spring.datasource.url=jdbc:h2:tcp://localhost/~/test
+spring.datasource.username=sa
+spring.datasource.password=1234

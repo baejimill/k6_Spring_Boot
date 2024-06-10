@@ -1,0 +1,28 @@
+package edu.pnu.controller;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+
+import edu.pnu.domain.Board;
+
+
+@Controller
+public class BoardController {
+
+	public String getBoardList(Model model) {
+		List<Board> boardList = new ArrayList<Board>();
+		
+		for(int i=1 ; i<=10 ; i++) {
+			
+		}
+	}
+	
+	
+}
+

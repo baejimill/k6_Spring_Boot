@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8 ">
+<title>시큐리티 테스트</title>
+</head>
+<body th:align="center">
+<h2>로그인</h2>
+<form th:action="login" method="post">
+<table th:align="center" border="1" th:cellpadding="0" th:cellspacing="0">
+
+	<tr>
+		<td bgcolor="orange">username:</td>
+		<td><input name="username" type="text" placeholder="Username"></td>
+	</tr>
+	
+	<tr>
+		<td bgcolor="orange" >password:</td>
+		<td><input name="password" type="password" placeholder="Password"></td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			<input type="submit" value="로그인">
+			</td>
+	</tr>
+</table>
+</form>
+</body>
+</html>

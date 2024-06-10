@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;edu.pnu.config.filter.JWTAuthorizatioFilter&apos; to &apos;JWTAuthorizationFilter&apos;&#x0D;&#x0A;- Original project: &apos;SecurityJWTScenario&apos;&#x0D;&#x0A;- Original element: &apos;edu.pnu.config.filter.JWTAuthorizatioFilter&apos;&#x0D;&#x0A;- Renamed element: &apos;edu.pnu.config.filter.JWTAuthorizationFilter&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;JWTAuthorizatioFilter&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;edu.pnu.config.filter{JWTAuthorizatioFilter.java[JWTAuthorizatioFilter" matchStrategy="1" name="JWTAuthorizationFilter" qualified="false" references="true" similarDeclarations="false" stamp="1717029558872" textual="false" version="1.0"/>
+</session>
